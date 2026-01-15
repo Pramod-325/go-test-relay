@@ -1,4 +1,4 @@
-module github.com/libp2p/libp2p-webrtc-guide/go-relay
+module github.com/Pramod-325/go-test-relay
 
 go 1.21.6
 
@@ -109,3 +109,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/blake3 v1.2.1 // indirect
 )
+
